@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+  <p><strong>Rafael Angelis</strong></p>
+  <p>2°ano - Informática - UEM</p>
+</div>
 
-<!--
-**RafaAngelis/RafaAngelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/RafaAngelis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaAngelis&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center">
+<a href="https://br.linkedin.com/in/rafael-nascimento-de-angelis-7620191a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:angelisrafaelzz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
+</div>
