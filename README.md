@@ -1,7 +1,6 @@
 <div align="center">
   <p><strong>Rafael Angelis</strong></p>
   
-  ##
   
   <p>2°ano - Informática - UEM</p>
   <p>Estudando Flutter</p>
