@@ -3,8 +3,7 @@
   
   ##
   
-  <p>2°ano - Informática - UEM</p>
-  <p>Estudando Flutter</p>
+  <p>4°ano - Informática - UEM</p>
 </div>
 
 ##
